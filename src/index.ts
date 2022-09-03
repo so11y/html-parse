@@ -195,4 +195,6 @@ const parseHtml = (str: string) => {
   return context.program;
 };
 
-console.log(parseHtml(`<div>1</div>2`));
+console.log(parseHtml(`<div>1</div>`));
+
+
