@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "esModuleInterop": true,
+        "declaration": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "strict": true,
+        "noImplicitOverride": true,
+        "noUnusedLocals": true,
+        "useUnknownInCatchVariables": false
+    },
+    "include": [
+        "./src/index.ts",
+    ],
+    "exclude": [
+        "node_modules",
+    ]
+}
