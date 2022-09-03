@@ -1,5 +1,3 @@
-// import {tokenizer} from "./tokenizer"
-
 interface Attributes {
   name: string;
   value: string;
